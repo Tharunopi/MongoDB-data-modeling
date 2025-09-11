@@ -253,4 +253,8 @@ db.books_collection.insertMany(
 
 );
 
+db.books_collection.countDocuments();
+
 db.books_collection.find();
+
+db.books_collection.deleteMany({});
