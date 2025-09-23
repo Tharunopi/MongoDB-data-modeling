@@ -1,0 +1,4502 @@
+[
+  {
+    "_id": "R0001",
+    "product_id": "B024",
+    "user_id": "U001",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-24",
+    "stars": 4
+  },
+  {
+    "_id": "R0002",
+    "product_id": "B014",
+    "user_id": "U002",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-08-30",
+    "stars": 4
+  },
+  {
+    "_id": "R0003",
+    "product_id": "B027",
+    "user_id": "U003",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-09-08",
+    "stars": 5
+  },
+  {
+    "_id": "R0004",
+    "product_id": "B030",
+    "user_id": "U004",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-11-25",
+    "stars": 3
+  },
+  {
+    "_id": "R0005",
+    "product_id": "B046",
+    "user_id": "U005",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-07-05",
+    "stars": 1
+  },
+  {
+    "_id": "R0006",
+    "product_id": "B020",
+    "user_id": "U006",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-04-05",
+    "stars": 5
+  },
+  {
+    "_id": "R0007",
+    "product_id": "B020",
+    "user_id": "U007",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-08",
+    "stars": 1
+  },
+  {
+    "_id": "R0008",
+    "product_id": "B028",
+    "user_id": "U008",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-03-13",
+    "stars": 4
+  },
+  {
+    "_id": "R0009",
+    "product_id": "B045",
+    "user_id": "U009",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-07-25",
+    "stars": 2
+  },
+  {
+    "_id": "R0010",
+    "product_id": "B042",
+    "user_id": "U010",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-02-27",
+    "stars": 3
+  },
+  {
+    "_id": "R0011",
+    "product_id": "B005",
+    "user_id": "U011",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-12-17",
+    "stars": 3
+  },
+  {
+    "_id": "R0012",
+    "product_id": "B026",
+    "user_id": "U012",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-12-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0013",
+    "product_id": "B012",
+    "user_id": "U013",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-04-13",
+    "stars": 2
+  },
+  {
+    "_id": "R0014",
+    "product_id": "B038",
+    "user_id": "U014",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-09-17",
+    "stars": 1
+  },
+  {
+    "_id": "R0015",
+    "product_id": "B015",
+    "user_id": "U015",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-12-10",
+    "stars": 3
+  },
+  {
+    "_id": "R0016",
+    "product_id": "B049",
+    "user_id": "U016",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-09-13",
+    "stars": 3
+  },
+  {
+    "_id": "R0017",
+    "product_id": "B043",
+    "user_id": "U017",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-04-11",
+    "stars": 4
+  },
+  {
+    "_id": "R0018",
+    "product_id": "B022",
+    "user_id": "U018",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-02-25",
+    "stars": 5
+  },
+  {
+    "_id": "R0019",
+    "product_id": "B032",
+    "user_id": "U019",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-01-07",
+    "stars": 4
+  },
+  {
+    "_id": "R0020",
+    "product_id": "B023",
+    "user_id": "U020",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-10-10",
+    "stars": 5
+  },
+  {
+    "_id": "R0021",
+    "product_id": "B001",
+    "user_id": "U021",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-05-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0022",
+    "product_id": "B036",
+    "user_id": "U022",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-11-08",
+    "stars": 4
+  },
+  {
+    "_id": "R0023",
+    "product_id": "B003",
+    "user_id": "U023",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-25",
+    "stars": 2
+  },
+  {
+    "_id": "R0024",
+    "product_id": "B029",
+    "user_id": "U024",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-07-22",
+    "stars": 5
+  },
+  {
+    "_id": "R0025",
+    "product_id": "B011",
+    "user_id": "U025",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-13",
+    "stars": 4
+  },
+  {
+    "_id": "R0026",
+    "product_id": "B024",
+    "user_id": "U026",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-01-15",
+    "stars": 1
+  },
+  {
+    "_id": "R0027",
+    "product_id": "B027",
+    "user_id": "U027",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0028",
+    "product_id": "B021",
+    "user_id": "U028",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-18",
+    "stars": 5
+  },
+  {
+    "_id": "R0029",
+    "product_id": "B041",
+    "user_id": "U029",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-01-03",
+    "stars": 4
+  },
+  {
+    "_id": "R0030",
+    "product_id": "B047",
+    "user_id": "U030",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-04",
+    "stars": 4
+  },
+  {
+    "_id": "R0031",
+    "product_id": "B006",
+    "user_id": "U031",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-03-29",
+    "stars": 2
+  },
+  {
+    "_id": "R0032",
+    "product_id": "B001",
+    "user_id": "U032",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-10-16",
+    "stars": 2
+  },
+  {
+    "_id": "R0033",
+    "product_id": "B013",
+    "user_id": "U033",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-05-17",
+    "stars": 4
+  },
+  {
+    "_id": "R0034",
+    "product_id": "B007",
+    "user_id": "U034",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-01-19",
+    "stars": 1
+  },
+  {
+    "_id": "R0035",
+    "product_id": "B016",
+    "user_id": "U035",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-08-10",
+    "stars": 1
+  },
+  {
+    "_id": "R0036",
+    "product_id": "B003",
+    "user_id": "U036",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-05-11",
+    "stars": 4
+  },
+  {
+    "_id": "R0037",
+    "product_id": "B012",
+    "user_id": "U037",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-29",
+    "stars": 5
+  },
+  {
+    "_id": "R0038",
+    "product_id": "B032",
+    "user_id": "U038",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-09-22",
+    "stars": 2
+  },
+  {
+    "_id": "R0039",
+    "product_id": "B014",
+    "user_id": "U039",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-10-09",
+    "stars": 5
+  },
+  {
+    "_id": "R0040",
+    "product_id": "B026",
+    "user_id": "U040",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-04-08",
+    "stars": 2
+  },
+  {
+    "_id": "R0041",
+    "product_id": "B004",
+    "user_id": "U041",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-09-01",
+    "stars": 3
+  },
+  {
+    "_id": "R0042",
+    "product_id": "B014",
+    "user_id": "U042",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-08-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0043",
+    "product_id": "B001",
+    "user_id": "U043",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-03-10",
+    "stars": 2
+  },
+  {
+    "_id": "R0044",
+    "product_id": "B048",
+    "user_id": "U044",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-11-13",
+    "stars": 5
+  },
+  {
+    "_id": "R0045",
+    "product_id": "B012",
+    "user_id": "U045",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0046",
+    "product_id": "B045",
+    "user_id": "U046",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-10-17",
+    "stars": 4
+  },
+  {
+    "_id": "R0047",
+    "product_id": "B037",
+    "user_id": "U047",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-01-25",
+    "stars": 1
+  },
+  {
+    "_id": "R0048",
+    "product_id": "B033",
+    "user_id": "U048",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-10-21",
+    "stars": 4
+  },
+  {
+    "_id": "R0049",
+    "product_id": "B035",
+    "user_id": "U049",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-11-14",
+    "stars": 3
+  },
+  {
+    "_id": "R0050",
+    "product_id": "B015",
+    "user_id": "U050",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-07-14",
+    "stars": 1
+  },
+  {
+    "_id": "R0051",
+    "product_id": "B047",
+    "user_id": "U051",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-08-03",
+    "stars": 3
+  },
+  {
+    "_id": "R0052",
+    "product_id": "B031",
+    "user_id": "U052",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-02-01",
+    "stars": 3
+  },
+  {
+    "_id": "R0053",
+    "product_id": "B041",
+    "user_id": "U053",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-10-14",
+    "stars": 2
+  },
+  {
+    "_id": "R0054",
+    "product_id": "B050",
+    "user_id": "U054",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-03-12",
+    "stars": 4
+  },
+  {
+    "_id": "R0055",
+    "product_id": "B025",
+    "user_id": "U055",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-05-14",
+    "stars": 2
+  },
+  {
+    "_id": "R0056",
+    "product_id": "B017",
+    "user_id": "U056",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-02-09",
+    "stars": 5
+  },
+  {
+    "_id": "R0057",
+    "product_id": "B038",
+    "user_id": "U057",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-04-17",
+    "stars": 3
+  },
+  {
+    "_id": "R0058",
+    "product_id": "B014",
+    "user_id": "U058",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-03-23",
+    "stars": 3
+  },
+  {
+    "_id": "R0059",
+    "product_id": "B044",
+    "user_id": "U059",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-23",
+    "stars": 4
+  },
+  {
+    "_id": "R0060",
+    "product_id": "B022",
+    "user_id": "U060",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-01-03",
+    "stars": 3
+  },
+  {
+    "_id": "R0061",
+    "product_id": "B006",
+    "user_id": "U061",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-05-10",
+    "stars": 2
+  },
+  {
+    "_id": "R0062",
+    "product_id": "B026",
+    "user_id": "U062",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-01-08",
+    "stars": 4
+  },
+  {
+    "_id": "R0063",
+    "product_id": "B047",
+    "user_id": "U063",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-07-12",
+    "stars": 5
+  },
+  {
+    "_id": "R0064",
+    "product_id": "B003",
+    "user_id": "U064",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-06-29",
+    "stars": 4
+  },
+  {
+    "_id": "R0065",
+    "product_id": "B035",
+    "user_id": "U065",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-05-24",
+    "stars": 5
+  },
+  {
+    "_id": "R0066",
+    "product_id": "B009",
+    "user_id": "U066",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-03-09",
+    "stars": 4
+  },
+  {
+    "_id": "R0067",
+    "product_id": "B026",
+    "user_id": "U067",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-01-06",
+    "stars": 1
+  },
+  {
+    "_id": "R0068",
+    "product_id": "B032",
+    "user_id": "U068",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-06-26",
+    "stars": 3
+  },
+  {
+    "_id": "R0069",
+    "product_id": "B037",
+    "user_id": "U069",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-01-29",
+    "stars": 2
+  },
+  {
+    "_id": "R0070",
+    "product_id": "B017",
+    "user_id": "U070",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-11-21",
+    "stars": 3
+  },
+  {
+    "_id": "R0071",
+    "product_id": "B013",
+    "user_id": "U071",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-10-02",
+    "stars": 1
+  },
+  {
+    "_id": "R0072",
+    "product_id": "B010",
+    "user_id": "U072",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-01-11",
+    "stars": 1
+  },
+  {
+    "_id": "R0073",
+    "product_id": "B026",
+    "user_id": "U073",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-10-02",
+    "stars": 3
+  },
+  {
+    "_id": "R0074",
+    "product_id": "B044",
+    "user_id": "U074",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-10-07",
+    "stars": 5
+  },
+  {
+    "_id": "R0075",
+    "product_id": "B039",
+    "user_id": "U075",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-06",
+    "stars": 3
+  },
+  {
+    "_id": "R0076",
+    "product_id": "B028",
+    "user_id": "U076",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-12-10",
+    "stars": 3
+  },
+  {
+    "_id": "R0077",
+    "product_id": "B032",
+    "user_id": "U077",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-23",
+    "stars": 2
+  },
+  {
+    "_id": "R0078",
+    "product_id": "B024",
+    "user_id": "U078",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-07-27",
+    "stars": 3
+  },
+  {
+    "_id": "R0079",
+    "product_id": "B016",
+    "user_id": "U079",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-02-15",
+    "stars": 5
+  },
+  {
+    "_id": "R0080",
+    "product_id": "B016",
+    "user_id": "U080",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-11-08",
+    "stars": 5
+  },
+  {
+    "_id": "R0081",
+    "product_id": "B013",
+    "user_id": "U081",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-07-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0082",
+    "product_id": "B014",
+    "user_id": "U082",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-01-30",
+    "stars": 3
+  },
+  {
+    "_id": "R0083",
+    "product_id": "B025",
+    "user_id": "U083",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-11-26",
+    "stars": 4
+  },
+  {
+    "_id": "R0084",
+    "product_id": "B048",
+    "user_id": "U084",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-01",
+    "stars": 2
+  },
+  {
+    "_id": "R0085",
+    "product_id": "B005",
+    "user_id": "U085",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-22",
+    "stars": 5
+  },
+  {
+    "_id": "R0086",
+    "product_id": "B033",
+    "user_id": "U086",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-06-19",
+    "stars": 2
+  },
+  {
+    "_id": "R0087",
+    "product_id": "B021",
+    "user_id": "U087",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-01-12",
+    "stars": 3
+  },
+  {
+    "_id": "R0088",
+    "product_id": "B014",
+    "user_id": "U088",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-12-05",
+    "stars": 3
+  },
+  {
+    "_id": "R0089",
+    "product_id": "B012",
+    "user_id": "U089",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-12-30",
+    "stars": 2
+  },
+  {
+    "_id": "R0090",
+    "product_id": "B005",
+    "user_id": "U090",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-12-04",
+    "stars": 4
+  },
+  {
+    "_id": "R0091",
+    "product_id": "B005",
+    "user_id": "U091",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-06-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0092",
+    "product_id": "B028",
+    "user_id": "U092",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-05-04",
+    "stars": 1
+  },
+  {
+    "_id": "R0093",
+    "product_id": "B040",
+    "user_id": "U093",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-02-04",
+    "stars": 4
+  },
+  {
+    "_id": "R0094",
+    "product_id": "B026",
+    "user_id": "U094",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-03-31",
+    "stars": 4
+  },
+  {
+    "_id": "R0095",
+    "product_id": "B029",
+    "user_id": "U095",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-16",
+    "stars": 2
+  },
+  {
+    "_id": "R0096",
+    "product_id": "B008",
+    "user_id": "U096",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-08-06",
+    "stars": 4
+  },
+  {
+    "_id": "R0097",
+    "product_id": "B015",
+    "user_id": "U097",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-09",
+    "stars": 2
+  },
+  {
+    "_id": "R0098",
+    "product_id": "B003",
+    "user_id": "U098",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-08-05",
+    "stars": 5
+  },
+  {
+    "_id": "R0099",
+    "product_id": "B013",
+    "user_id": "U099",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-04-30",
+    "stars": 2
+  },
+  {
+    "_id": "R0100",
+    "product_id": "B050",
+    "user_id": "U100",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-09-26",
+    "stars": 1
+  },
+  {
+    "_id": "R0101",
+    "product_id": "B015",
+    "user_id": "U101",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-05-05",
+    "stars": 5
+  },
+  {
+    "_id": "R0102",
+    "product_id": "B008",
+    "user_id": "U102",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-07-19",
+    "stars": 5
+  },
+  {
+    "_id": "R0103",
+    "product_id": "B012",
+    "user_id": "U103",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-10-13",
+    "stars": 5
+  },
+  {
+    "_id": "R0104",
+    "product_id": "B037",
+    "user_id": "U104",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-07-30",
+    "stars": 1
+  },
+  {
+    "_id": "R0105",
+    "product_id": "B004",
+    "user_id": "U105",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-01-29",
+    "stars": 5
+  },
+  {
+    "_id": "R0106",
+    "product_id": "B049",
+    "user_id": "U106",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-03-28",
+    "stars": 1
+  },
+  {
+    "_id": "R0107",
+    "product_id": "B047",
+    "user_id": "U107",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-04-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0108",
+    "product_id": "B042",
+    "user_id": "U108",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-01-31",
+    "stars": 2
+  },
+  {
+    "_id": "R0109",
+    "product_id": "B032",
+    "user_id": "U109",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-12-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0110",
+    "product_id": "B007",
+    "user_id": "U110",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-03-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0111",
+    "product_id": "B008",
+    "user_id": "U111",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-01-27",
+    "stars": 4
+  },
+  {
+    "_id": "R0112",
+    "product_id": "B039",
+    "user_id": "U112",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-12-17",
+    "stars": 2
+  },
+  {
+    "_id": "R0113",
+    "product_id": "B021",
+    "user_id": "U113",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-07-11",
+    "stars": 2
+  },
+  {
+    "_id": "R0114",
+    "product_id": "B039",
+    "user_id": "U114",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-03-22",
+    "stars": 5
+  },
+  {
+    "_id": "R0115",
+    "product_id": "B022",
+    "user_id": "U115",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-04",
+    "stars": 1
+  },
+  {
+    "_id": "R0116",
+    "product_id": "B011",
+    "user_id": "U116",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-24",
+    "stars": 5
+  },
+  {
+    "_id": "R0117",
+    "product_id": "B048",
+    "user_id": "U117",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-03-12",
+    "stars": 2
+  },
+  {
+    "_id": "R0118",
+    "product_id": "B031",
+    "user_id": "U118",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-05-01",
+    "stars": 5
+  },
+  {
+    "_id": "R0119",
+    "product_id": "B016",
+    "user_id": "U119",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-11-13",
+    "stars": 1
+  },
+  {
+    "_id": "R0120",
+    "product_id": "B045",
+    "user_id": "U120",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-10-12",
+    "stars": 5
+  },
+  {
+    "_id": "R0121",
+    "product_id": "B039",
+    "user_id": "U121",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-29",
+    "stars": 5
+  },
+  {
+    "_id": "R0122",
+    "product_id": "B042",
+    "user_id": "U122",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-03-26",
+    "stars": 3
+  },
+  {
+    "_id": "R0123",
+    "product_id": "B046",
+    "user_id": "U123",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-03-29",
+    "stars": 5
+  },
+  {
+    "_id": "R0124",
+    "product_id": "B021",
+    "user_id": "U124",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-08-26",
+    "stars": 2
+  },
+  {
+    "_id": "R0125",
+    "product_id": "B004",
+    "user_id": "U125",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-06",
+    "stars": 5
+  },
+  {
+    "_id": "R0126",
+    "product_id": "B050",
+    "user_id": "U126",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-06-18",
+    "stars": 4
+  },
+  {
+    "_id": "R0127",
+    "product_id": "B023",
+    "user_id": "U127",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-05-04",
+    "stars": 1
+  },
+  {
+    "_id": "R0128",
+    "product_id": "B026",
+    "user_id": "U128",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-04-02",
+    "stars": 4
+  },
+  {
+    "_id": "R0129",
+    "product_id": "B003",
+    "user_id": "U129",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-10-04",
+    "stars": 5
+  },
+  {
+    "_id": "R0130",
+    "product_id": "B049",
+    "user_id": "U130",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-11-26",
+    "stars": 1
+  },
+  {
+    "_id": "R0131",
+    "product_id": "B009",
+    "user_id": "U131",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-01-14",
+    "stars": 3
+  },
+  {
+    "_id": "R0132",
+    "product_id": "B015",
+    "user_id": "U132",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-02-12",
+    "stars": 5
+  },
+  {
+    "_id": "R0133",
+    "product_id": "B036",
+    "user_id": "U133",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-18",
+    "stars": 3
+  },
+  {
+    "_id": "R0134",
+    "product_id": "B035",
+    "user_id": "U134",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-08-23",
+    "stars": 4
+  },
+  {
+    "_id": "R0135",
+    "product_id": "B048",
+    "user_id": "U135",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-06-21",
+    "stars": 1
+  },
+  {
+    "_id": "R0136",
+    "product_id": "B048",
+    "user_id": "U136",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-02-20",
+    "stars": 2
+  },
+  {
+    "_id": "R0137",
+    "product_id": "B020",
+    "user_id": "U137",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-11-25",
+    "stars": 3
+  },
+  {
+    "_id": "R0138",
+    "product_id": "B050",
+    "user_id": "U138",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-02-05",
+    "stars": 3
+  },
+  {
+    "_id": "R0139",
+    "product_id": "B009",
+    "user_id": "U139",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-10-09",
+    "stars": 2
+  },
+  {
+    "_id": "R0140",
+    "product_id": "B021",
+    "user_id": "U140",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-10-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0141",
+    "product_id": "B033",
+    "user_id": "U141",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-01-24",
+    "stars": 4
+  },
+  {
+    "_id": "R0142",
+    "product_id": "B028",
+    "user_id": "U142",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-12-03",
+    "stars": 2
+  },
+  {
+    "_id": "R0143",
+    "product_id": "B014",
+    "user_id": "U143",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-01-17",
+    "stars": 5
+  },
+  {
+    "_id": "R0144",
+    "product_id": "B006",
+    "user_id": "U144",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-04-07",
+    "stars": 3
+  },
+  {
+    "_id": "R0145",
+    "product_id": "B028",
+    "user_id": "U145",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-11-13",
+    "stars": 4
+  },
+  {
+    "_id": "R0146",
+    "product_id": "B011",
+    "user_id": "U146",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-04-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0147",
+    "product_id": "B043",
+    "user_id": "U147",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-06-20",
+    "stars": 1
+  },
+  {
+    "_id": "R0148",
+    "product_id": "B032",
+    "user_id": "U148",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-09-14",
+    "stars": 2
+  },
+  {
+    "_id": "R0149",
+    "product_id": "B020",
+    "user_id": "U149",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-09-11",
+    "stars": 3
+  },
+  {
+    "_id": "R0150",
+    "product_id": "B048",
+    "user_id": "U150",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-09-09",
+    "stars": 2
+  },
+  {
+    "_id": "R0151",
+    "product_id": "B016",
+    "user_id": "U151",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-09-23",
+    "stars": 3
+  },
+  {
+    "_id": "R0152",
+    "product_id": "B032",
+    "user_id": "U152",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-11-18",
+    "stars": 3
+  },
+  {
+    "_id": "R0153",
+    "product_id": "B009",
+    "user_id": "U153",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-10-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0154",
+    "product_id": "B022",
+    "user_id": "U154",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-04-16",
+    "stars": 5
+  },
+  {
+    "_id": "R0155",
+    "product_id": "B035",
+    "user_id": "U155",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-08-31",
+    "stars": 1
+  },
+  {
+    "_id": "R0156",
+    "product_id": "B024",
+    "user_id": "U156",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-06-12",
+    "stars": 3
+  },
+  {
+    "_id": "R0157",
+    "product_id": "B034",
+    "user_id": "U157",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-06-12",
+    "stars": 1
+  },
+  {
+    "_id": "R0158",
+    "product_id": "B020",
+    "user_id": "U158",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-12-04",
+    "stars": 4
+  },
+  {
+    "_id": "R0159",
+    "product_id": "B005",
+    "user_id": "U159",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-02-06",
+    "stars": 3
+  },
+  {
+    "_id": "R0160",
+    "product_id": "B028",
+    "user_id": "U160",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-11-01",
+    "stars": 2
+  },
+  {
+    "_id": "R0161",
+    "product_id": "B040",
+    "user_id": "U161",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-30",
+    "stars": 2
+  },
+  {
+    "_id": "R0162",
+    "product_id": "B013",
+    "user_id": "U162",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-14",
+    "stars": 4
+  },
+  {
+    "_id": "R0163",
+    "product_id": "B031",
+    "user_id": "U163",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-12-03",
+    "stars": 4
+  },
+  {
+    "_id": "R0164",
+    "product_id": "B050",
+    "user_id": "U164",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-07-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0165",
+    "product_id": "B044",
+    "user_id": "U165",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-09-13",
+    "stars": 4
+  },
+  {
+    "_id": "R0166",
+    "product_id": "B027",
+    "user_id": "U166",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-09-07",
+    "stars": 4
+  },
+  {
+    "_id": "R0167",
+    "product_id": "B009",
+    "user_id": "U167",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-04-16",
+    "stars": 3
+  },
+  {
+    "_id": "R0168",
+    "product_id": "B018",
+    "user_id": "U168",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-09-14",
+    "stars": 1
+  },
+  {
+    "_id": "R0169",
+    "product_id": "B030",
+    "user_id": "U169",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-06-29",
+    "stars": 3
+  },
+  {
+    "_id": "R0170",
+    "product_id": "B025",
+    "user_id": "U170",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-11-01",
+    "stars": 2
+  },
+  {
+    "_id": "R0171",
+    "product_id": "B002",
+    "user_id": "U171",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-08-08",
+    "stars": 1
+  },
+  {
+    "_id": "R0172",
+    "product_id": "B008",
+    "user_id": "U172",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-08-25",
+    "stars": 5
+  },
+  {
+    "_id": "R0173",
+    "product_id": "B035",
+    "user_id": "U173",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-05-28",
+    "stars": 3
+  },
+  {
+    "_id": "R0174",
+    "product_id": "B039",
+    "user_id": "U174",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-01-27",
+    "stars": 2
+  },
+  {
+    "_id": "R0175",
+    "product_id": "B048",
+    "user_id": "U175",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-09-30",
+    "stars": 5
+  },
+  {
+    "_id": "R0176",
+    "product_id": "B035",
+    "user_id": "U176",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-07-06",
+    "stars": 5
+  },
+  {
+    "_id": "R0177",
+    "product_id": "B013",
+    "user_id": "U177",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-07-03",
+    "stars": 4
+  },
+  {
+    "_id": "R0178",
+    "product_id": "B014",
+    "user_id": "U178",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-04-11",
+    "stars": 1
+  },
+  {
+    "_id": "R0179",
+    "product_id": "B001",
+    "user_id": "U179",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-03-29",
+    "stars": 2
+  },
+  {
+    "_id": "R0180",
+    "product_id": "B031",
+    "user_id": "U180",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-01-19",
+    "stars": 4
+  },
+  {
+    "_id": "R0181",
+    "product_id": "B020",
+    "user_id": "U181",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-03-24",
+    "stars": 4
+  },
+  {
+    "_id": "R0182",
+    "product_id": "B015",
+    "user_id": "U182",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-08-10",
+    "stars": 2
+  },
+  {
+    "_id": "R0183",
+    "product_id": "B042",
+    "user_id": "U183",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-11-15",
+    "stars": 3
+  },
+  {
+    "_id": "R0184",
+    "product_id": "B043",
+    "user_id": "U184",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-01-09",
+    "stars": 5
+  },
+  {
+    "_id": "R0185",
+    "product_id": "B037",
+    "user_id": "U185",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-02-22",
+    "stars": 3
+  },
+  {
+    "_id": "R0186",
+    "product_id": "B037",
+    "user_id": "U186",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-04-21",
+    "stars": 4
+  },
+  {
+    "_id": "R0187",
+    "product_id": "B014",
+    "user_id": "U187",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-03-29",
+    "stars": 3
+  },
+  {
+    "_id": "R0188",
+    "product_id": "B012",
+    "user_id": "U188",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-10-17",
+    "stars": 4
+  },
+  {
+    "_id": "R0189",
+    "product_id": "B033",
+    "user_id": "U189",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-12-03",
+    "stars": 4
+  },
+  {
+    "_id": "R0190",
+    "product_id": "B007",
+    "user_id": "U190",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-06-14",
+    "stars": 4
+  },
+  {
+    "_id": "R0191",
+    "product_id": "B019",
+    "user_id": "U191",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-01",
+    "stars": 5
+  },
+  {
+    "_id": "R0192",
+    "product_id": "B041",
+    "user_id": "U192",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-03-08",
+    "stars": 2
+  },
+  {
+    "_id": "R0193",
+    "product_id": "B030",
+    "user_id": "U193",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-06-01",
+    "stars": 5
+  },
+  {
+    "_id": "R0194",
+    "product_id": "B014",
+    "user_id": "U194",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-06",
+    "stars": 2
+  },
+  {
+    "_id": "R0195",
+    "product_id": "B015",
+    "user_id": "U195",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-10-26",
+    "stars": 3
+  },
+  {
+    "_id": "R0196",
+    "product_id": "B018",
+    "user_id": "U196",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-05-27",
+    "stars": 5
+  },
+  {
+    "_id": "R0197",
+    "product_id": "B047",
+    "user_id": "U197",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-01-17",
+    "stars": 4
+  },
+  {
+    "_id": "R0198",
+    "product_id": "B034",
+    "user_id": "U198",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-12-12",
+    "stars": 4
+  },
+  {
+    "_id": "R0199",
+    "product_id": "B018",
+    "user_id": "U199",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-22",
+    "stars": 3
+  },
+  {
+    "_id": "R0200",
+    "product_id": "B019",
+    "user_id": "U200",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-05-24",
+    "stars": 2
+  },
+  {
+    "_id": "R0201",
+    "product_id": "B049",
+    "user_id": "U201",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-02-24",
+    "stars": 5
+  },
+  {
+    "_id": "R0202",
+    "product_id": "B036",
+    "user_id": "U202",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-05-17",
+    "stars": 1
+  },
+  {
+    "_id": "R0203",
+    "product_id": "B004",
+    "user_id": "U203",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-08-26",
+    "stars": 5
+  },
+  {
+    "_id": "R0204",
+    "product_id": "B021",
+    "user_id": "U204",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-12-03",
+    "stars": 3
+  },
+  {
+    "_id": "R0205",
+    "product_id": "B009",
+    "user_id": "U205",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-12-20",
+    "stars": 2
+  },
+  {
+    "_id": "R0206",
+    "product_id": "B043",
+    "user_id": "U206",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-01-13",
+    "stars": 1
+  },
+  {
+    "_id": "R0207",
+    "product_id": "B034",
+    "user_id": "U207",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-04-21",
+    "stars": 5
+  },
+  {
+    "_id": "R0208",
+    "product_id": "B030",
+    "user_id": "U208",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-11-09",
+    "stars": 3
+  },
+  {
+    "_id": "R0209",
+    "product_id": "B004",
+    "user_id": "U209",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-07-04",
+    "stars": 4
+  },
+  {
+    "_id": "R0210",
+    "product_id": "B024",
+    "user_id": "U210",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-11-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0211",
+    "product_id": "B020",
+    "user_id": "U211",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-01-02",
+    "stars": 4
+  },
+  {
+    "_id": "R0212",
+    "product_id": "B029",
+    "user_id": "U212",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-06-06",
+    "stars": 3
+  },
+  {
+    "_id": "R0213",
+    "product_id": "B032",
+    "user_id": "U213",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-10-22",
+    "stars": 3
+  },
+  {
+    "_id": "R0214",
+    "product_id": "B001",
+    "user_id": "U214",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-01-17",
+    "stars": 1
+  },
+  {
+    "_id": "R0215",
+    "product_id": "B045",
+    "user_id": "U215",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-02-26",
+    "stars": 2
+  },
+  {
+    "_id": "R0216",
+    "product_id": "B028",
+    "user_id": "U216",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0217",
+    "product_id": "B003",
+    "user_id": "U217",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-10-22",
+    "stars": 2
+  },
+  {
+    "_id": "R0218",
+    "product_id": "B027",
+    "user_id": "U218",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-07-11",
+    "stars": 2
+  },
+  {
+    "_id": "R0219",
+    "product_id": "B018",
+    "user_id": "U219",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-07-15",
+    "stars": 2
+  },
+  {
+    "_id": "R0220",
+    "product_id": "B025",
+    "user_id": "U220",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-05-28",
+    "stars": 2
+  },
+  {
+    "_id": "R0221",
+    "product_id": "B026",
+    "user_id": "U221",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-07-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0222",
+    "product_id": "B008",
+    "user_id": "U222",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-07-19",
+    "stars": 1
+  },
+  {
+    "_id": "R0223",
+    "product_id": "B029",
+    "user_id": "U223",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-11-29",
+    "stars": 3
+  },
+  {
+    "_id": "R0224",
+    "product_id": "B008",
+    "user_id": "U224",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-05-13",
+    "stars": 3
+  },
+  {
+    "_id": "R0225",
+    "product_id": "B018",
+    "user_id": "U225",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-01-13",
+    "stars": 4
+  },
+  {
+    "_id": "R0226",
+    "product_id": "B019",
+    "user_id": "U226",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-09-22",
+    "stars": 1
+  },
+  {
+    "_id": "R0227",
+    "product_id": "B007",
+    "user_id": "U227",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-01-13",
+    "stars": 2
+  },
+  {
+    "_id": "R0228",
+    "product_id": "B039",
+    "user_id": "U228",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-10-27",
+    "stars": 5
+  },
+  {
+    "_id": "R0229",
+    "product_id": "B045",
+    "user_id": "U229",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-08-24",
+    "stars": 5
+  },
+  {
+    "_id": "R0230",
+    "product_id": "B032",
+    "user_id": "U230",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-10-08",
+    "stars": 1
+  },
+  {
+    "_id": "R0231",
+    "product_id": "B026",
+    "user_id": "U231",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-12-01",
+    "stars": 2
+  },
+  {
+    "_id": "R0232",
+    "product_id": "B007",
+    "user_id": "U232",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-09-02",
+    "stars": 1
+  },
+  {
+    "_id": "R0233",
+    "product_id": "B001",
+    "user_id": "U233",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-08-20",
+    "stars": 4
+  },
+  {
+    "_id": "R0234",
+    "product_id": "B018",
+    "user_id": "U234",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-09-11",
+    "stars": 1
+  },
+  {
+    "_id": "R0235",
+    "product_id": "B043",
+    "user_id": "U235",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-04-21",
+    "stars": 4
+  },
+  {
+    "_id": "R0236",
+    "product_id": "B039",
+    "user_id": "U236",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-10",
+    "stars": 4
+  },
+  {
+    "_id": "R0237",
+    "product_id": "B050",
+    "user_id": "U237",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-02-07",
+    "stars": 4
+  },
+  {
+    "_id": "R0238",
+    "product_id": "B033",
+    "user_id": "U238",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-03-06",
+    "stars": 4
+  },
+  {
+    "_id": "R0239",
+    "product_id": "B022",
+    "user_id": "U239",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-10-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0240",
+    "product_id": "B038",
+    "user_id": "U240",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-07-08",
+    "stars": 4
+  },
+  {
+    "_id": "R0241",
+    "product_id": "B018",
+    "user_id": "U241",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-01-30",
+    "stars": 2
+  },
+  {
+    "_id": "R0242",
+    "product_id": "B023",
+    "user_id": "U242",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-06-25",
+    "stars": 1
+  },
+  {
+    "_id": "R0243",
+    "product_id": "B030",
+    "user_id": "U243",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-13",
+    "stars": 5
+  },
+  {
+    "_id": "R0244",
+    "product_id": "B009",
+    "user_id": "U244",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-09",
+    "stars": 4
+  },
+  {
+    "_id": "R0245",
+    "product_id": "B030",
+    "user_id": "U245",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-04-02",
+    "stars": 4
+  },
+  {
+    "_id": "R0246",
+    "product_id": "B030",
+    "user_id": "U246",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-12-10",
+    "stars": 3
+  },
+  {
+    "_id": "R0247",
+    "product_id": "B037",
+    "user_id": "U247",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-12-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0248",
+    "product_id": "B045",
+    "user_id": "U248",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-22",
+    "stars": 1
+  },
+  {
+    "_id": "R0249",
+    "product_id": "B018",
+    "user_id": "U249",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-06-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0250",
+    "product_id": "B004",
+    "user_id": "U250",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-05-03",
+    "stars": 4
+  },
+  {
+    "_id": "R0251",
+    "product_id": "B009",
+    "user_id": "U251",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-08-13",
+    "stars": 3
+  },
+  {
+    "_id": "R0252",
+    "product_id": "B021",
+    "user_id": "U252",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-03-19",
+    "stars": 2
+  },
+  {
+    "_id": "R0253",
+    "product_id": "B016",
+    "user_id": "U253",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-10-25",
+    "stars": 1
+  },
+  {
+    "_id": "R0254",
+    "product_id": "B050",
+    "user_id": "U254",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-03-31",
+    "stars": 3
+  },
+  {
+    "_id": "R0255",
+    "product_id": "B017",
+    "user_id": "U255",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-09-06",
+    "stars": 2
+  },
+  {
+    "_id": "R0256",
+    "product_id": "B031",
+    "user_id": "U256",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-03-18",
+    "stars": 1
+  },
+  {
+    "_id": "R0257",
+    "product_id": "B029",
+    "user_id": "U257",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-02-15",
+    "stars": 3
+  },
+  {
+    "_id": "R0258",
+    "product_id": "B006",
+    "user_id": "U258",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-10-19",
+    "stars": 4
+  },
+  {
+    "_id": "R0259",
+    "product_id": "B026",
+    "user_id": "U259",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-09-11",
+    "stars": 3
+  },
+  {
+    "_id": "R0260",
+    "product_id": "B012",
+    "user_id": "U260",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-12-01",
+    "stars": 5
+  },
+  {
+    "_id": "R0261",
+    "product_id": "B034",
+    "user_id": "U261",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-05-11",
+    "stars": 4
+  },
+  {
+    "_id": "R0262",
+    "product_id": "B045",
+    "user_id": "U262",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-10-16",
+    "stars": 3
+  },
+  {
+    "_id": "R0263",
+    "product_id": "B006",
+    "user_id": "U263",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-20",
+    "stars": 2
+  },
+  {
+    "_id": "R0264",
+    "product_id": "B013",
+    "user_id": "U264",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-11-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0265",
+    "product_id": "B012",
+    "user_id": "U265",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-02-27",
+    "stars": 4
+  },
+  {
+    "_id": "R0266",
+    "product_id": "B024",
+    "user_id": "U266",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-27",
+    "stars": 3
+  },
+  {
+    "_id": "R0267",
+    "product_id": "B001",
+    "user_id": "U267",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-09-07",
+    "stars": 2
+  },
+  {
+    "_id": "R0268",
+    "product_id": "B039",
+    "user_id": "U268",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-04-11",
+    "stars": 1
+  },
+  {
+    "_id": "R0269",
+    "product_id": "B028",
+    "user_id": "U269",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-11-03",
+    "stars": 2
+  },
+  {
+    "_id": "R0270",
+    "product_id": "B035",
+    "user_id": "U270",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-10-28",
+    "stars": 2
+  },
+  {
+    "_id": "R0271",
+    "product_id": "B021",
+    "user_id": "U271",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-04-28",
+    "stars": 5
+  },
+  {
+    "_id": "R0272",
+    "product_id": "B018",
+    "user_id": "U272",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-11-01",
+    "stars": 2
+  },
+  {
+    "_id": "R0273",
+    "product_id": "B039",
+    "user_id": "U273",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-10-10",
+    "stars": 3
+  },
+  {
+    "_id": "R0274",
+    "product_id": "B034",
+    "user_id": "U274",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-05-07",
+    "stars": 4
+  },
+  {
+    "_id": "R0275",
+    "product_id": "B039",
+    "user_id": "U275",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-10-03",
+    "stars": 5
+  },
+  {
+    "_id": "R0276",
+    "product_id": "B035",
+    "user_id": "U276",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-12-28",
+    "stars": 3
+  },
+  {
+    "_id": "R0277",
+    "product_id": "B047",
+    "user_id": "U277",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-07-22",
+    "stars": 4
+  },
+  {
+    "_id": "R0278",
+    "product_id": "B004",
+    "user_id": "U278",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-04-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0279",
+    "product_id": "B032",
+    "user_id": "U279",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-10-22",
+    "stars": 2
+  },
+  {
+    "_id": "R0280",
+    "product_id": "B026",
+    "user_id": "U280",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-06-03",
+    "stars": 4
+  },
+  {
+    "_id": "R0281",
+    "product_id": "B047",
+    "user_id": "U281",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-03-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0282",
+    "product_id": "B009",
+    "user_id": "U282",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-06-07",
+    "stars": 2
+  },
+  {
+    "_id": "R0283",
+    "product_id": "B006",
+    "user_id": "U283",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-12-23",
+    "stars": 5
+  },
+  {
+    "_id": "R0284",
+    "product_id": "B021",
+    "user_id": "U284",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-11-16",
+    "stars": 5
+  },
+  {
+    "_id": "R0285",
+    "product_id": "B045",
+    "user_id": "U285",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-02-06",
+    "stars": 3
+  },
+  {
+    "_id": "R0286",
+    "product_id": "B044",
+    "user_id": "U286",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-08-12",
+    "stars": 4
+  },
+  {
+    "_id": "R0287",
+    "product_id": "B011",
+    "user_id": "U287",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-03-05",
+    "stars": 1
+  },
+  {
+    "_id": "R0288",
+    "product_id": "B044",
+    "user_id": "U288",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-09-04",
+    "stars": 4
+  },
+  {
+    "_id": "R0289",
+    "product_id": "B002",
+    "user_id": "U289",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-12-14",
+    "stars": 3
+  },
+  {
+    "_id": "R0290",
+    "product_id": "B047",
+    "user_id": "U290",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-07-18",
+    "stars": 1
+  },
+  {
+    "_id": "R0291",
+    "product_id": "B041",
+    "user_id": "U291",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-03-07",
+    "stars": 2
+  },
+  {
+    "_id": "R0292",
+    "product_id": "B049",
+    "user_id": "U292",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0293",
+    "product_id": "B031",
+    "user_id": "U293",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-02-20",
+    "stars": 3
+  },
+  {
+    "_id": "R0294",
+    "product_id": "B028",
+    "user_id": "U294",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-11-06",
+    "stars": 3
+  },
+  {
+    "_id": "R0295",
+    "product_id": "B014",
+    "user_id": "U295",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-04-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0296",
+    "product_id": "B009",
+    "user_id": "U296",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-02-27",
+    "stars": 5
+  },
+  {
+    "_id": "R0297",
+    "product_id": "B037",
+    "user_id": "U297",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-07-28",
+    "stars": 5
+  },
+  {
+    "_id": "R0298",
+    "product_id": "B049",
+    "user_id": "U298",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-07-28",
+    "stars": 2
+  },
+  {
+    "_id": "R0299",
+    "product_id": "B025",
+    "user_id": "U299",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-12-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0300",
+    "product_id": "B013",
+    "user_id": "U300",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-29",
+    "stars": 5
+  },
+  {
+    "_id": "R0301",
+    "product_id": "B032",
+    "user_id": "U301",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-11-14",
+    "stars": 4
+  },
+  {
+    "_id": "R0302",
+    "product_id": "B017",
+    "user_id": "U302",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-03-08",
+    "stars": 1
+  },
+  {
+    "_id": "R0303",
+    "product_id": "B020",
+    "user_id": "U303",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0304",
+    "product_id": "B042",
+    "user_id": "U304",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-12-20",
+    "stars": 4
+  },
+  {
+    "_id": "R0305",
+    "product_id": "B044",
+    "user_id": "U305",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-03-19",
+    "stars": 5
+  },
+  {
+    "_id": "R0306",
+    "product_id": "B035",
+    "user_id": "U306",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-01-02",
+    "stars": 1
+  },
+  {
+    "_id": "R0307",
+    "product_id": "B016",
+    "user_id": "U307",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-09-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0308",
+    "product_id": "B042",
+    "user_id": "U308",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-10-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0309",
+    "product_id": "B036",
+    "user_id": "U309",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-07-15",
+    "stars": 4
+  },
+  {
+    "_id": "R0310",
+    "product_id": "B041",
+    "user_id": "U310",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-11-12",
+    "stars": 1
+  },
+  {
+    "_id": "R0311",
+    "product_id": "B022",
+    "user_id": "U311",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-04-13",
+    "stars": 5
+  },
+  {
+    "_id": "R0312",
+    "product_id": "B020",
+    "user_id": "U312",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-07-20",
+    "stars": 4
+  },
+  {
+    "_id": "R0313",
+    "product_id": "B050",
+    "user_id": "U313",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-16",
+    "stars": 1
+  },
+  {
+    "_id": "R0314",
+    "product_id": "B039",
+    "user_id": "U314",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-08-15",
+    "stars": 1
+  },
+  {
+    "_id": "R0315",
+    "product_id": "B010",
+    "user_id": "U315",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-05-07",
+    "stars": 3
+  },
+  {
+    "_id": "R0316",
+    "product_id": "B026",
+    "user_id": "U316",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-07-25",
+    "stars": 2
+  },
+  {
+    "_id": "R0317",
+    "product_id": "B032",
+    "user_id": "U317",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-09-07",
+    "stars": 5
+  },
+  {
+    "_id": "R0318",
+    "product_id": "B010",
+    "user_id": "U318",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-08-24",
+    "stars": 1
+  },
+  {
+    "_id": "R0319",
+    "product_id": "B001",
+    "user_id": "U319",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-12-18",
+    "stars": 2
+  },
+  {
+    "_id": "R0320",
+    "product_id": "B008",
+    "user_id": "U320",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-11-09",
+    "stars": 1
+  },
+  {
+    "_id": "R0321",
+    "product_id": "B017",
+    "user_id": "U321",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-05-23",
+    "stars": 1
+  },
+  {
+    "_id": "R0322",
+    "product_id": "B047",
+    "user_id": "U322",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-01-25",
+    "stars": 2
+  },
+  {
+    "_id": "R0323",
+    "product_id": "B034",
+    "user_id": "U323",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-08-31",
+    "stars": 3
+  },
+  {
+    "_id": "R0324",
+    "product_id": "B036",
+    "user_id": "U324",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-09-18",
+    "stars": 3
+  },
+  {
+    "_id": "R0325",
+    "product_id": "B031",
+    "user_id": "U325",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-29",
+    "stars": 3
+  },
+  {
+    "_id": "R0326",
+    "product_id": "B039",
+    "user_id": "U326",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-08",
+    "stars": 2
+  },
+  {
+    "_id": "R0327",
+    "product_id": "B025",
+    "user_id": "U327",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-10-17",
+    "stars": 2
+  },
+  {
+    "_id": "R0328",
+    "product_id": "B027",
+    "user_id": "U328",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-03-02",
+    "stars": 5
+  },
+  {
+    "_id": "R0329",
+    "product_id": "B004",
+    "user_id": "U329",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-07-06",
+    "stars": 1
+  },
+  {
+    "_id": "R0330",
+    "product_id": "B007",
+    "user_id": "U330",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-04-11",
+    "stars": 4
+  },
+  {
+    "_id": "R0331",
+    "product_id": "B048",
+    "user_id": "U331",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-12",
+    "stars": 3
+  },
+  {
+    "_id": "R0332",
+    "product_id": "B004",
+    "user_id": "U332",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-06-26",
+    "stars": 5
+  },
+  {
+    "_id": "R0333",
+    "product_id": "B026",
+    "user_id": "U333",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-02-04",
+    "stars": 5
+  },
+  {
+    "_id": "R0334",
+    "product_id": "B027",
+    "user_id": "U334",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-07-07",
+    "stars": 2
+  },
+  {
+    "_id": "R0335",
+    "product_id": "B027",
+    "user_id": "U335",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-03-24",
+    "stars": 5
+  },
+  {
+    "_id": "R0336",
+    "product_id": "B047",
+    "user_id": "U336",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-05-26",
+    "stars": 1
+  },
+  {
+    "_id": "R0337",
+    "product_id": "B047",
+    "user_id": "U337",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-07-14",
+    "stars": 1
+  },
+  {
+    "_id": "R0338",
+    "product_id": "B018",
+    "user_id": "U338",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-01-12",
+    "stars": 5
+  },
+  {
+    "_id": "R0339",
+    "product_id": "B045",
+    "user_id": "U339",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-10-09",
+    "stars": 1
+  },
+  {
+    "_id": "R0340",
+    "product_id": "B020",
+    "user_id": "U340",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-07-23",
+    "stars": 3
+  },
+  {
+    "_id": "R0341",
+    "product_id": "B030",
+    "user_id": "U341",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-01-20",
+    "stars": 4
+  },
+  {
+    "_id": "R0342",
+    "product_id": "B028",
+    "user_id": "U342",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-03-21",
+    "stars": 2
+  },
+  {
+    "_id": "R0343",
+    "product_id": "B032",
+    "user_id": "U343",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-08-22",
+    "stars": 2
+  },
+  {
+    "_id": "R0344",
+    "product_id": "B031",
+    "user_id": "U344",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-06-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0345",
+    "product_id": "B016",
+    "user_id": "U345",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-11-15",
+    "stars": 1
+  },
+  {
+    "_id": "R0346",
+    "product_id": "B050",
+    "user_id": "U346",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-03-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0347",
+    "product_id": "B027",
+    "user_id": "U347",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-06-30",
+    "stars": 4
+  },
+  {
+    "_id": "R0348",
+    "product_id": "B043",
+    "user_id": "U348",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-23",
+    "stars": 5
+  },
+  {
+    "_id": "R0349",
+    "product_id": "B046",
+    "user_id": "U349",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-06-19",
+    "stars": 5
+  },
+  {
+    "_id": "R0350",
+    "product_id": "B027",
+    "user_id": "U350",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-04-12",
+    "stars": 3
+  },
+  {
+    "_id": "R0351",
+    "product_id": "B030",
+    "user_id": "U351",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-05",
+    "stars": 1
+  },
+  {
+    "_id": "R0352",
+    "product_id": "B002",
+    "user_id": "U352",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-07-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0353",
+    "product_id": "B009",
+    "user_id": "U353",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0354",
+    "product_id": "B015",
+    "user_id": "U354",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-08",
+    "stars": 2
+  },
+  {
+    "_id": "R0355",
+    "product_id": "B032",
+    "user_id": "U355",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-09-16",
+    "stars": 4
+  },
+  {
+    "_id": "R0356",
+    "product_id": "B007",
+    "user_id": "U356",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-08-19",
+    "stars": 2
+  },
+  {
+    "_id": "R0357",
+    "product_id": "B015",
+    "user_id": "U357",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-08-22",
+    "stars": 3
+  },
+  {
+    "_id": "R0358",
+    "product_id": "B026",
+    "user_id": "U358",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-05-04",
+    "stars": 3
+  },
+  {
+    "_id": "R0359",
+    "product_id": "B029",
+    "user_id": "U359",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-06-11",
+    "stars": 3
+  },
+  {
+    "_id": "R0360",
+    "product_id": "B037",
+    "user_id": "U360",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-01-04",
+    "stars": 2
+  },
+  {
+    "_id": "R0361",
+    "product_id": "B027",
+    "user_id": "U361",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-03-11",
+    "stars": 1
+  },
+  {
+    "_id": "R0362",
+    "product_id": "B022",
+    "user_id": "U362",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-11",
+    "stars": 1
+  },
+  {
+    "_id": "R0363",
+    "product_id": "B034",
+    "user_id": "U363",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-08-06",
+    "stars": 5
+  },
+  {
+    "_id": "R0364",
+    "product_id": "B012",
+    "user_id": "U364",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-05-21",
+    "stars": 2
+  },
+  {
+    "_id": "R0365",
+    "product_id": "B036",
+    "user_id": "U365",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-09-19",
+    "stars": 5
+  },
+  {
+    "_id": "R0366",
+    "product_id": "B036",
+    "user_id": "U366",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-01-29",
+    "stars": 2
+  },
+  {
+    "_id": "R0367",
+    "product_id": "B032",
+    "user_id": "U367",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-12-02",
+    "stars": 1
+  },
+  {
+    "_id": "R0368",
+    "product_id": "B008",
+    "user_id": "U368",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-12-18",
+    "stars": 5
+  },
+  {
+    "_id": "R0369",
+    "product_id": "B023",
+    "user_id": "U369",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-05-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0370",
+    "product_id": "B004",
+    "user_id": "U370",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-11-03",
+    "stars": 5
+  },
+  {
+    "_id": "R0371",
+    "product_id": "B002",
+    "user_id": "U371",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-08-13",
+    "stars": 3
+  },
+  {
+    "_id": "R0372",
+    "product_id": "B013",
+    "user_id": "U372",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-05-12",
+    "stars": 2
+  },
+  {
+    "_id": "R0373",
+    "product_id": "B038",
+    "user_id": "U373",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-10-20",
+    "stars": 1
+  },
+  {
+    "_id": "R0374",
+    "product_id": "B028",
+    "user_id": "U374",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-13",
+    "stars": 3
+  },
+  {
+    "_id": "R0375",
+    "product_id": "B028",
+    "user_id": "U375",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-04",
+    "stars": 3
+  },
+  {
+    "_id": "R0376",
+    "product_id": "B049",
+    "user_id": "U376",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-02-09",
+    "stars": 3
+  },
+  {
+    "_id": "R0377",
+    "product_id": "B030",
+    "user_id": "U377",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-11-23",
+    "stars": 4
+  },
+  {
+    "_id": "R0378",
+    "product_id": "B013",
+    "user_id": "U378",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-02-25",
+    "stars": 2
+  },
+  {
+    "_id": "R0379",
+    "product_id": "B012",
+    "user_id": "U379",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-03-29",
+    "stars": 1
+  },
+  {
+    "_id": "R0380",
+    "product_id": "B036",
+    "user_id": "U380",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-11-21",
+    "stars": 5
+  },
+  {
+    "_id": "R0381",
+    "product_id": "B019",
+    "user_id": "U381",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-10-12",
+    "stars": 5
+  },
+  {
+    "_id": "R0382",
+    "product_id": "B020",
+    "user_id": "U382",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-05-29",
+    "stars": 3
+  },
+  {
+    "_id": "R0383",
+    "product_id": "B001",
+    "user_id": "U383",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-06-18",
+    "stars": 3
+  },
+  {
+    "_id": "R0384",
+    "product_id": "B010",
+    "user_id": "U384",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-01-26",
+    "stars": 2
+  },
+  {
+    "_id": "R0385",
+    "product_id": "B017",
+    "user_id": "U385",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-04-20",
+    "stars": 4
+  },
+  {
+    "_id": "R0386",
+    "product_id": "B021",
+    "user_id": "U386",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-04",
+    "stars": 3
+  },
+  {
+    "_id": "R0387",
+    "product_id": "B034",
+    "user_id": "U387",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-11-21",
+    "stars": 3
+  },
+  {
+    "_id": "R0388",
+    "product_id": "B033",
+    "user_id": "U388",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-03-31",
+    "stars": 3
+  },
+  {
+    "_id": "R0389",
+    "product_id": "B039",
+    "user_id": "U389",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-05-04",
+    "stars": 2
+  },
+  {
+    "_id": "R0390",
+    "product_id": "B013",
+    "user_id": "U390",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-04-18",
+    "stars": 1
+  },
+  {
+    "_id": "R0391",
+    "product_id": "B011",
+    "user_id": "U391",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-12-10",
+    "stars": 2
+  },
+  {
+    "_id": "R0392",
+    "product_id": "B047",
+    "user_id": "U392",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-09",
+    "stars": 5
+  },
+  {
+    "_id": "R0393",
+    "product_id": "B018",
+    "user_id": "U393",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-08-08",
+    "stars": 2
+  },
+  {
+    "_id": "R0394",
+    "product_id": "B006",
+    "user_id": "U394",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-07-06",
+    "stars": 1
+  },
+  {
+    "_id": "R0395",
+    "product_id": "B048",
+    "user_id": "U395",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-06-03",
+    "stars": 1
+  },
+  {
+    "_id": "R0396",
+    "product_id": "B032",
+    "user_id": "U396",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-06-28",
+    "stars": 2
+  },
+  {
+    "_id": "R0397",
+    "product_id": "B041",
+    "user_id": "U397",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-24",
+    "stars": 3
+  },
+  {
+    "_id": "R0398",
+    "product_id": "B044",
+    "user_id": "U398",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-07-21",
+    "stars": 1
+  },
+  {
+    "_id": "R0399",
+    "product_id": "B019",
+    "user_id": "U399",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-05-29",
+    "stars": 1
+  },
+  {
+    "_id": "R0400",
+    "product_id": "B003",
+    "user_id": "U400",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-08-13",
+    "stars": 5
+  },
+  {
+    "_id": "R0401",
+    "product_id": "B050",
+    "user_id": "U401",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-03-05",
+    "stars": 5
+  },
+  {
+    "_id": "R0402",
+    "product_id": "B002",
+    "user_id": "U402",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-09-26",
+    "stars": 1
+  },
+  {
+    "_id": "R0403",
+    "product_id": "B018",
+    "user_id": "U403",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-07-06",
+    "stars": 2
+  },
+  {
+    "_id": "R0404",
+    "product_id": "B037",
+    "user_id": "U404",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-11-05",
+    "stars": 2
+  },
+  {
+    "_id": "R0405",
+    "product_id": "B015",
+    "user_id": "U405",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-12-31",
+    "stars": 5
+  },
+  {
+    "_id": "R0406",
+    "product_id": "B041",
+    "user_id": "U406",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-09-10",
+    "stars": 5
+  },
+  {
+    "_id": "R0407",
+    "product_id": "B050",
+    "user_id": "U407",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-06-24",
+    "stars": 5
+  },
+  {
+    "_id": "R0408",
+    "product_id": "B007",
+    "user_id": "U408",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-20",
+    "stars": 4
+  },
+  {
+    "_id": "R0409",
+    "product_id": "B023",
+    "user_id": "U409",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-04-26",
+    "stars": 3
+  },
+  {
+    "_id": "R0410",
+    "product_id": "B006",
+    "user_id": "U410",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-22",
+    "stars": 5
+  },
+  {
+    "_id": "R0411",
+    "product_id": "B003",
+    "user_id": "U411",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-07-20",
+    "stars": 4
+  },
+  {
+    "_id": "R0412",
+    "product_id": "B038",
+    "user_id": "U412",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-09-03",
+    "stars": 4
+  },
+  {
+    "_id": "R0413",
+    "product_id": "B011",
+    "user_id": "U413",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-12-18",
+    "stars": 1
+  },
+  {
+    "_id": "R0414",
+    "product_id": "B024",
+    "user_id": "U414",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-04-25",
+    "stars": 1
+  },
+  {
+    "_id": "R0415",
+    "product_id": "B018",
+    "user_id": "U415",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-08-14",
+    "stars": 1
+  },
+  {
+    "_id": "R0416",
+    "product_id": "B023",
+    "user_id": "U416",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-23",
+    "stars": 1
+  },
+  {
+    "_id": "R0417",
+    "product_id": "B040",
+    "user_id": "U417",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-07-27",
+    "stars": 5
+  },
+  {
+    "_id": "R0418",
+    "product_id": "B032",
+    "user_id": "U418",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-02-14",
+    "stars": 1
+  },
+  {
+    "_id": "R0419",
+    "product_id": "B020",
+    "user_id": "U419",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-11-18",
+    "stars": 1
+  },
+  {
+    "_id": "R0420",
+    "product_id": "B044",
+    "user_id": "U420",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-05-09",
+    "stars": 1
+  },
+  {
+    "_id": "R0421",
+    "product_id": "B040",
+    "user_id": "U421",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-05",
+    "stars": 3
+  },
+  {
+    "_id": "R0422",
+    "product_id": "B011",
+    "user_id": "U422",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-08-30",
+    "stars": 1
+  },
+  {
+    "_id": "R0423",
+    "product_id": "B046",
+    "user_id": "U423",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-10-31",
+    "stars": 3
+  },
+  {
+    "_id": "R0424",
+    "product_id": "B005",
+    "user_id": "U424",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-07-31",
+    "stars": 3
+  },
+  {
+    "_id": "R0425",
+    "product_id": "B045",
+    "user_id": "U425",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-18",
+    "stars": 5
+  },
+  {
+    "_id": "R0426",
+    "product_id": "B027",
+    "user_id": "U426",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-09-02",
+    "stars": 2
+  },
+  {
+    "_id": "R0427",
+    "product_id": "B038",
+    "user_id": "U427",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-03-12",
+    "stars": 5
+  },
+  {
+    "_id": "R0428",
+    "product_id": "B038",
+    "user_id": "U428",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-10-11",
+    "stars": 4
+  },
+  {
+    "_id": "R0429",
+    "product_id": "B035",
+    "user_id": "U429",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-05-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0430",
+    "product_id": "B011",
+    "user_id": "U430",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-03-14",
+    "stars": 1
+  },
+  {
+    "_id": "R0431",
+    "product_id": "B013",
+    "user_id": "U431",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-04-13",
+    "stars": 3
+  },
+  {
+    "_id": "R0432",
+    "product_id": "B016",
+    "user_id": "U432",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-02-22",
+    "stars": 1
+  },
+  {
+    "_id": "R0433",
+    "product_id": "B009",
+    "user_id": "U433",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-08-22",
+    "stars": 4
+  },
+  {
+    "_id": "R0434",
+    "product_id": "B008",
+    "user_id": "U434",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-06-28",
+    "stars": 3
+  },
+  {
+    "_id": "R0435",
+    "product_id": "B036",
+    "user_id": "U435",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-11-11",
+    "stars": 3
+  },
+  {
+    "_id": "R0436",
+    "product_id": "B017",
+    "user_id": "U436",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-04-01",
+    "stars": 5
+  },
+  {
+    "_id": "R0437",
+    "product_id": "B027",
+    "user_id": "U437",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-09-28",
+    "stars": 4
+  },
+  {
+    "_id": "R0438",
+    "product_id": "B047",
+    "user_id": "U438",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-06-26",
+    "stars": 1
+  },
+  {
+    "_id": "R0439",
+    "product_id": "B020",
+    "user_id": "U439",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-04-11",
+    "stars": 4
+  },
+  {
+    "_id": "R0440",
+    "product_id": "B018",
+    "user_id": "U440",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-02-11",
+    "stars": 4
+  },
+  {
+    "_id": "R0441",
+    "product_id": "B003",
+    "user_id": "U441",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-01-14",
+    "stars": 3
+  },
+  {
+    "_id": "R0442",
+    "product_id": "B045",
+    "user_id": "U442",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-03-02",
+    "stars": 5
+  },
+  {
+    "_id": "R0443",
+    "product_id": "B013",
+    "user_id": "U443",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-10-23",
+    "stars": 5
+  },
+  {
+    "_id": "R0444",
+    "product_id": "B016",
+    "user_id": "U444",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-09-14",
+    "stars": 3
+  },
+  {
+    "_id": "R0445",
+    "product_id": "B017",
+    "user_id": "U445",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-08-27",
+    "stars": 5
+  },
+  {
+    "_id": "R0446",
+    "product_id": "B002",
+    "user_id": "U446",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-09-03",
+    "stars": 2
+  },
+  {
+    "_id": "R0447",
+    "product_id": "B050",
+    "user_id": "U447",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-07-29",
+    "stars": 1
+  },
+  {
+    "_id": "R0448",
+    "product_id": "B023",
+    "user_id": "U448",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-04-24",
+    "stars": 2
+  },
+  {
+    "_id": "R0449",
+    "product_id": "B020",
+    "user_id": "U449",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-05-24",
+    "stars": 4
+  },
+  {
+    "_id": "R0450",
+    "product_id": "B030",
+    "user_id": "U450",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-08-11",
+    "stars": 3
+  },
+  {
+    "_id": "R0451",
+    "product_id": "B017",
+    "user_id": "U451",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-08",
+    "stars": 3
+  },
+  {
+    "_id": "R0452",
+    "product_id": "B027",
+    "user_id": "U452",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-03-19",
+    "stars": 1
+  },
+  {
+    "_id": "R0453",
+    "product_id": "B025",
+    "user_id": "U453",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-05-02",
+    "stars": 5
+  },
+  {
+    "_id": "R0454",
+    "product_id": "B026",
+    "user_id": "U454",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-09-16",
+    "stars": 1
+  },
+  {
+    "_id": "R0455",
+    "product_id": "B020",
+    "user_id": "U455",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-12-06",
+    "stars": 5
+  },
+  {
+    "_id": "R0456",
+    "product_id": "B011",
+    "user_id": "U456",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-11-20",
+    "stars": 1
+  },
+  {
+    "_id": "R0457",
+    "product_id": "B039",
+    "user_id": "U457",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-02-17",
+    "stars": 1
+  },
+  {
+    "_id": "R0458",
+    "product_id": "B046",
+    "user_id": "U458",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-11-14",
+    "stars": 2
+  },
+  {
+    "_id": "R0459",
+    "product_id": "B027",
+    "user_id": "U459",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-01-22",
+    "stars": 3
+  },
+  {
+    "_id": "R0460",
+    "product_id": "B037",
+    "user_id": "U460",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-04-21",
+    "stars": 1
+  },
+  {
+    "_id": "R0461",
+    "product_id": "B022",
+    "user_id": "U461",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-03-23",
+    "stars": 2
+  },
+  {
+    "_id": "R0462",
+    "product_id": "B001",
+    "user_id": "U462",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-08-04",
+    "stars": 2
+  },
+  {
+    "_id": "R0463",
+    "product_id": "B013",
+    "user_id": "U463",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-02-04",
+    "stars": 4
+  },
+  {
+    "_id": "R0464",
+    "product_id": "B018",
+    "user_id": "U464",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-07-27",
+    "stars": 5
+  },
+  {
+    "_id": "R0465",
+    "product_id": "B006",
+    "user_id": "U465",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-10-31",
+    "stars": 2
+  },
+  {
+    "_id": "R0466",
+    "product_id": "B044",
+    "user_id": "U466",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-02-23",
+    "stars": 2
+  },
+  {
+    "_id": "R0467",
+    "product_id": "B005",
+    "user_id": "U467",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-07-21",
+    "stars": 3
+  },
+  {
+    "_id": "R0468",
+    "product_id": "B036",
+    "user_id": "U468",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-11-10",
+    "stars": 5
+  },
+  {
+    "_id": "R0469",
+    "product_id": "B019",
+    "user_id": "U469",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-02-06",
+    "stars": 5
+  },
+  {
+    "_id": "R0470",
+    "product_id": "B041",
+    "user_id": "U470",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-04-02",
+    "stars": 5
+  },
+  {
+    "_id": "R0471",
+    "product_id": "B001",
+    "user_id": "U471",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-05-14",
+    "stars": 2
+  },
+  {
+    "_id": "R0472",
+    "product_id": "B015",
+    "user_id": "U472",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-08-31",
+    "stars": 2
+  },
+  {
+    "_id": "R0473",
+    "product_id": "B006",
+    "user_id": "U473",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-04-27",
+    "stars": 5
+  },
+  {
+    "_id": "R0474",
+    "product_id": "B016",
+    "user_id": "U474",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-09-28",
+    "stars": 4
+  },
+  {
+    "_id": "R0475",
+    "product_id": "B045",
+    "user_id": "U475",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-05-02",
+    "stars": 4
+  },
+  {
+    "_id": "R0476",
+    "product_id": "B009",
+    "user_id": "U476",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-11-20",
+    "stars": 2
+  },
+  {
+    "_id": "R0477",
+    "product_id": "B025",
+    "user_id": "U477",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-09-12",
+    "stars": 1
+  },
+  {
+    "_id": "R0478",
+    "product_id": "B015",
+    "user_id": "U478",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-10-26",
+    "stars": 4
+  },
+  {
+    "_id": "R0479",
+    "product_id": "B049",
+    "user_id": "U479",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-08-23",
+    "stars": 5
+  },
+  {
+    "_id": "R0480",
+    "product_id": "B035",
+    "user_id": "U480",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2024-02-06",
+    "stars": 2
+  },
+  {
+    "_id": "R0481",
+    "product_id": "B008",
+    "user_id": "U481",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-06-01",
+    "stars": 3
+  },
+  {
+    "_id": "R0482",
+    "product_id": "B029",
+    "user_id": "U482",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-06-18",
+    "stars": 2
+  },
+  {
+    "_id": "R0483",
+    "product_id": "B009",
+    "user_id": "U483",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-12-30",
+    "stars": 3
+  },
+  {
+    "_id": "R0484",
+    "product_id": "B012",
+    "user_id": "U484",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-01-18",
+    "stars": 4
+  },
+  {
+    "_id": "R0485",
+    "product_id": "B002",
+    "user_id": "U485",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-01-07",
+    "stars": 3
+  },
+  {
+    "_id": "R0486",
+    "product_id": "B013",
+    "user_id": "U486",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-07-29",
+    "stars": 4
+  },
+  {
+    "_id": "R0487",
+    "product_id": "B014",
+    "user_id": "U487",
+    "reviewTitle": "Not what I expected",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-03-31",
+    "stars": 5
+  },
+  {
+    "_id": "R0488",
+    "product_id": "B017",
+    "user_id": "U488",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2023-11-13",
+    "stars": 2
+  },
+  {
+    "_id": "R0489",
+    "product_id": "B037",
+    "user_id": "U489",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2023-12-21",
+    "stars": 1
+  },
+  {
+    "_id": "R0490",
+    "product_id": "B013",
+    "user_id": "U490",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Very easy to understand and well structured.",
+    "date": "2024-10-19",
+    "stars": 3
+  },
+  {
+    "_id": "R0491",
+    "product_id": "B026",
+    "user_id": "U491",
+    "reviewTitle": "Great intro",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-07-23",
+    "stars": 1
+  },
+  {
+    "_id": "R0492",
+    "product_id": "B005",
+    "user_id": "U492",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-12-17",
+    "stars": 2
+  },
+  {
+    "_id": "R0493",
+    "product_id": "B037",
+    "user_id": "U493",
+    "reviewTitle": "Great intro",
+    "reviewBody": "Comprehensive and clear with real-world examples.",
+    "date": "2024-07-19",
+    "stars": 1
+  },
+  {
+    "_id": "R0494",
+    "product_id": "B030",
+    "user_id": "U494",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-12-16",
+    "stars": 5
+  },
+  {
+    "_id": "R0495",
+    "product_id": "B035",
+    "user_id": "U495",
+    "reviewTitle": "Excellent resource",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2024-09-14",
+    "stars": 4
+  },
+  {
+    "_id": "R0496",
+    "product_id": "B010",
+    "user_id": "U496",
+    "reviewTitle": "Too complex",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-07-14",
+    "stars": 2
+  },
+  {
+    "_id": "R0497",
+    "product_id": "B013",
+    "user_id": "U497",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2023-06-24",
+    "stars": 3
+  },
+  {
+    "_id": "R0498",
+    "product_id": "B042",
+    "user_id": "U498",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Content was outdated compared to current MongoDB version.",
+    "date": "2023-09-25",
+    "stars": 4
+  },
+  {
+    "_id": "R0499",
+    "product_id": "B044",
+    "user_id": "U499",
+    "reviewTitle": "Solid reference",
+    "reviewBody": "The book jumps into details without enough examples.",
+    "date": "2024-01-19",
+    "stars": 3
+  },
+  {
+    "_id": "R0500",
+    "product_id": "B037",
+    "user_id": "U500",
+    "reviewTitle": "Too complex",
+    "reviewBody": "Good for experienced developers looking for best practices.",
+    "date": "2023-05-30",
+    "stars": 1
+  }
+]
